@@ -5,7 +5,7 @@ The title is explicit. This is the cemetery of my incomplete projects, essential
 ## léonUtils
 léonUtils was an attempt to help solve technical issues that students could face during classes (broken internet cable, the bad sound quality on the speakers, etc.). Indeed, it was supposed to allow students to report technical issues using their Google Workspace account. Then, the request would be sent directly to the school’s technician. The main advantage of this solution was that all technical issues were reported in a unique place, leading to better harmonization and organization. Cancelled due to administrative reasons.
 
-<img src="https://i.goopics.net/m6iirf.png" width="340">
+<img src="https://i.goopics.net/m6iirf.png" width="340" text-align="center">
 
 > Login page
 
