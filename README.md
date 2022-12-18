@@ -39,7 +39,12 @@ léonTutors was an attempt to establish tutoring between students. This web app 
 
 > Login page in desktop
 
-![Login page in mobiles](https://i.goopics.net/raxahk.png)
+
+<p align="center">
+  <img src="https://i.goopics.net/raxahk.png" height="340">
+</p>
+
+
 > Login page in mobile devices
 
 <p align="center">
@@ -48,7 +53,11 @@ léonTutors was an attempt to establish tutoring between students. This web app 
 
 > Part of setup in desktop
 
-![Setup](https://i.goopics.net/xls5mx.png)
+
+<p align="center">
+  <img src="https://i.goopics.net/xls5mx.png" height="340">
+</p>
+
 > Part of the setup (mobile)
 
 
