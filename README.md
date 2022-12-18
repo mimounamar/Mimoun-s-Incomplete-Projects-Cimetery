@@ -21,7 +21,9 @@ léonUtils was an attempt to help solve technical issues that students could fac
 ## léonTutors
 léonTutors was an attempt to establish tutoring between students. This web app was supposed to help the high school organize this initiative. Everything was supposed to be automated via léonTutors. However, the students’ busy schedules led to the cancellation of this project, as most students wouldn’t find time to tutor or be tutored. Also using Google Workspace to authenticate students.
 
-![Computer homepage](https://i.goopics.net/7cvm6n.png)
+<p align="center">
+  <img src="https://i.goopics.net/7cvm6n.png" width="340">
+</p>
 
 > Desktop homepage
 
@@ -29,13 +31,19 @@ léonTutors was an attempt to establish tutoring between students. This web app 
 
 > Mobile homepage
 
-![Login computer](https://i.goopics.net/vt97xi.png) 
+<p align="center">
+  <img src="https://i.goopics.net/vt97xi.png" width="340">
+</p>
+
 > Login page in desktop
 
 ![Login page in mobiles](https://i.goopics.net/raxahk.png)
 > Login page in mobile devices
 
-![Setup](https://i.goopics.net/8nrchf.png)
+<p align="center">
+  <img src="https://i.goopics.net/8nrchf.png" width="340">
+</p>
+
 > Part of setup in desktop
 
 ![Setup](https://i.goopics.net/xls5mx.png)
