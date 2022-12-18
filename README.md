@@ -27,7 +27,9 @@ léonTutors was an attempt to establish tutoring between students. This web app 
 
 > Desktop homepage
 
-![Mobile homepage](https://i.goopics.net/ij9h3s.png)
+<p align="center">
+  <img src="https://i.goopics.net/ij9h3s.png" height="340">
+</p>
 
 > Mobile homepage
 
